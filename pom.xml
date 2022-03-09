@@ -18,6 +18,7 @@
 
     <repositories>
         <repository>
+            <!-- Requires username and personal token in settings.xml -->
             <id>github</id>
             <url>https://maven.pkg.github.com/Xray-App/*</url>
             <snapshots>
